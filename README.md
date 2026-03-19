@@ -16,7 +16,7 @@
 
 Analysing pairs one by one is slow and error-prone. The **FxTT Multi-purpose Forex Scanner** solves this by displaying a real-time dashboard directly on your MT4 chart, showing the most important technical metrics for every symbol in your Market Watch — all in one place.
 
-Built and used by [Carlos Oliveira](https://forextradingtools.eu) as part of his own live trading workflow, the scanner is designed to be **fast, readable, and fully customisable**.
+Built and used by me [Carlos Oliveira](https://forextradingtools.eu) as part of my own live trading workflow, the scanner is designed to be **fast, readable, and fully customisable**.
 
 **Product page & documentation:** [forextradingtools.eu/products/indicators/forex-scanner-free](https://forextradingtools.eu/products/indicators/forex-scanner-free/)
 
