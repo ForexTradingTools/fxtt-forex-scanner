@@ -191,7 +191,6 @@ For major changes, please open an issue first to discuss what you'd like to chan
 
 This project is licensed under the **MIT License** — you are free to use, modify, and distribute this code, provided the original copyright notice is retained.
 
-See [LICENSE](./LICENSE) for details.
 
 ---
 
